@@ -32,6 +32,11 @@
         <li><strong>Team Details:</strong> Manage detailed information about teams, including team leader, platform, tier, and experience.</li>
         <li><strong>Platform Details:</strong> Manage information about eSports platforms, including match type, difficulty, and rewards.</li>
         <li><strong>View Graphs:</strong> Select different types of graphs to visualize team and platform data.</li>
+    <h2>Code Overview</h2>
+    <ul>
+        <li><code>espdbms.py:</code> The main Streamlit application file that handles the user interface and interactions.</li>
+        <li><code>eSports_management.db:</code> SQLite database file containing the application data.</li>
+    </ul>
     </ul>
     <h2>Screenshots</h2>
     <h3>Login Page</h3>
