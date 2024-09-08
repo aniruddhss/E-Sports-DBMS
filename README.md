@@ -39,12 +39,22 @@
     </ul>
     </ul>
     <h2>Screenshots</h2>
-    <h3>Login Page</h3>
-    <img src="path-to-your-screenshot/login_page.png" alt="Login Page" class="screenshot">
-    <h3>Product Selection Page</h3>
-    <img src="path-to-your-screenshot/product_selection_page.png" alt="Product Selection Page" class="screenshot">
-    <h3>Dashboard Page</h3>
-    <img src="path-to-your-screenshot/dashboard_page.png" alt="Dashboard Page" class="screenshot">
+    <h3>Sidebar Homepage</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/Sidebar%20homepage.png" alt="Sidebar Homepage" class="screenshot">
+    <h3>Choose Action Menu</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/choose%20action%20menu.png" alt="Choose Action Menu" class="screenshot">
+    <h3>View All Records</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/view%20all%20records.png" alt="View All Records" class="screenshot">
+    <h3>View Records 2</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/view%20records%202.png" alt="View Records 2" class="screenshot">
+    <h3>Update Records</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/update%20records.png" alt="Update Records" class="screenshot">
+    <h3>Delete Records</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/delete%20records%20page.png" alt="Delete Records" class="screenshot">
+    <h3>View Graphs Menu</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/view%20graphs%20menu.png" alt="View Graphs Menu" class="screenshot">
+    <h3>Sample Graph</h3>
+    <img src="https://github.com/aniruddhss/PYTHON1/blob/main/Screenshots/sample%20graph.png" alt="Sample Graph" class="screenshot">
     <h2>Contact</h2>
     <p>For any questions or feedback, you can reach out to:</p>
     <ul>
