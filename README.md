@@ -58,7 +58,7 @@
     <h2>Contact</h2>
     <p>For any questions or feedback, you can reach out to:</p>
     <ul>
-        <li><strong>Email:</strong> aniruddhshrivastava11@gmail.com</li>
+        <li><strong>Email:</strong> <a href="aniruddhshrivastava11@gmail.com">aniruddhshrivastava11@gmail.com</a></li>
         <li><strong>GitHub:</strong> <a href="https://github.com/aniruddhss">https://github.com/aniruddhss</a></li>
     </ul>
 </body>
